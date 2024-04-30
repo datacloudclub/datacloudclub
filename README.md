@@ -69,19 +69,19 @@ Cómo miembro de la comunidad tendrás el derecho y el deber de aportar dentro d
 
 <h3 align="center">Lo que no conseguirás dentro de la comunidad</h3>
 
-- No conseguirás un profesor, tutor o mentor, Nuestro enfoque está en aprender haciendo.
+- No conseguirás un profesor, tutor o mentor, sino un compañero entusiasta que pueda orientarte y ayudar a encontrar un enfoque distinto para aprender haciendo.
 
-- No conseguirás, un paso a paso definitivo, cada enfoque o proyecto puede tener sus particularidades. 
+- Ningún proyecto es único. Incentivamos a que cada miembro aporte desde su visión singular, desde su experiencia y conocimientos previos, su enfoque distintivo personal para que pueda exhibir y manifestar su propia particularidad. 
 
-- Si quieres optar por presentar un exámen de certificación, bien la experiencia te puede ayudar, pero no conseguirás todo lo que necesitas, para ello deberás recurrir directamente a los cursos de preparación del proveedor o consultar la documentación. 
+- Los exámenes de certificación son valiosos aliados desde un punto de vista estríctamente teórico y que denota cierto manejo del vocabulario. Distinto es el aprendizaje basado en proyectos donde vamos descubriendo la teoría a partir de un problema práctico creado por tí basado en tus intereses que deberemos resolver y encontrar una solución que posiblemente nunca nadie haya tenido antes.
 
 <h3 align="center">¿Que pasa si quiero aportar en la comunidad, pero no me siento seguro?</h3>
 
 El equipo de desarrollo de proyectos ha elaborado un material especial para nivelar los conocimientos en la nube. [Introducción Cloud Computing](). Allí conseguirás los conceptos básicos que te ayudarán a entender los proyectos, luego podrás empezar a reproducir los proyectos paso a paso, partiendo de lo que el equipo ha realizado para ti.
 
-<h3 align="center">Si tengo algún problema, a quien acudo?</h3>
+<h3 align="center">Si tengo algún problema, ¿a quién acudo?</h3>
 
-Este es un espacio creado por Herys para Henrys, primeramente puedes acudir a cualquiera de los miembros del equipo de desarrollo. Sin embargo nos regimos por el código de conducta de Henry.
+Este es un espacio creado de Henrys para Henrys, primeramente puedes acudir a cualquiera de los miembros del equipo de desarrollo. Sin embargo nos regimos por el código de conducta de Henry.
 
 <h2 align="center">¿Te gustaría formar parte del equipo de desarrollo de DCC?</h2>
 
@@ -89,9 +89,9 @@ Sería un honor poder tenerte en nuestro equipo, sin embargo tenemos algunas exi
 
 - Deberás haber culminado la fase de PF, en Henry.
 
-- Haber reproducido los distintos proyectos, en almenos 2 proveedores cloud. 
+- Haber reproducido los distintos proyectos, en al menos 2 proveedores cloud. 
 
-- Ser activo dentro de la comunidad. 
+- Ser activo dentro de la comunidad.
 
 - Y tener una ganas inmensas de codear de forma voluntaria.
 
