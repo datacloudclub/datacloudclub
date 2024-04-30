@@ -7,11 +7,11 @@ Con un enfoque en la auto-capacitación práctica y el desarrollo de habilidades
 
 <h2 align="center">Misión</h2>
 
-“Empoderar a nuestros miembros para que dominen las habilidades en la nube y se conviertan en profesionales altamente competentes en el manejo de datos. Proporcionamos un espacio de aprendizaje práctico y colaborativo, compartimos conocimientos y fomentamos la innovación, todo mientras promovemos un ambiente inclusivo y respetuoso.”
+“Empoderar a nuestros miembros para que dominen habilidades trabajando con sistemas virtuales en la nube y se conviertan en profesionales altamente competentes en el manejo de datos. Proporcionamos un espacio inclusivo y respetuoso de aprendizaje basado en proyectos colaborativos, compartiendo conocimientos y fomentando la innovación.”
 
 <h2 align="center">Visión</h2>
 
-“Ser la comunidad donde inspiramos a nuestros miembros a explorar, aprender y transformar sus habilidades en un entorno colaborativo y diverso, en la aplicación de tecnologías en la nube para el mundo de los datos.”
+“Ser la comunidad de habla hispana líder en Ciencia de Datos basados en tecnologías de la nube inspirando a nuestros miembros a que puedan explorar, aprender y transformar sus habilidades en un entorno colaborativo y diverso.”
 
 <h2 align="center">Valores</h2>
 
