@@ -1,4 +1,4 @@
-![banner](BANNER.jpg)
+![banner](images/BANNER.jpg)
 <h1 align="center"> Data Cloud Club </h1>
 
 En un mundo cada vez más digitalizado y orientado a los datos, la capacidad de adaptarse y adoptar las tecnologías emergentes es fundamental para el éxito profesional. Al observar la creciente demanda de habilidades en la nube por parte de las empresas y las limitaciones técnicas que enfrentan muchos profesionales al realizar entrenamiento de modelos de machine learning en sus computadoras, surge la motivación para la creación de una comunidad virtual: **Data Cloud Club**. 
