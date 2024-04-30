@@ -51,6 +51,8 @@ Los proyectos sen estudiados y documentados para hacerlos reproducibles por los 
 
 [Despliegue en AWS]()
 
+<h2 align="center">Preguntas frecuentes</h2>
+
 <h3 align="center">¿Cómo Puedo Aportar dentro de la Comunidad?</h3>
 
 Cómo miembro de la comunidad tendrás el derecho y el deber de aportar dentro de ella. 
