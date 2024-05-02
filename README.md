@@ -79,7 +79,7 @@ Cómo miembro de la comunidad tendrás el derecho y el deber de aportar dentro d
 
 <h3 align="center">¿Que pasa si quiero aportar en la comunidad, pero no me siento seguro?</h3>
 
-El equipo de desarrollo de proyectos ha elaborado un material especial para nivelar los conocimientos en la nube. [Introducción Cloud Computing](). Allí conseguirás los conceptos básicos que te ayudarán a entender los proyectos, luego podrás empezar a reproducir los proyectos paso a paso, partiendo de lo que el equipo ha realizado para ti.
+El equipo de desarrollo de proyectos ha elaborado un material especial para nivelar los conocimientos en la nube. [Introducción Cloud Computing](https://drive.google.com/file/d/1za-fOscYQg4Vbvn0j8rYWdbh84OB3ocw/view?usp=drive_link). Allí conseguirás los conceptos básicos que te ayudarán a entender los proyectos, luego podrás empezar a reproducir los proyectos paso a paso, partiendo de lo que el equipo ha realizado para ti.
 
 <h3 align="center">Si tengo algún problema, ¿a quién acudo?</h3>
 
