@@ -4,7 +4,7 @@
 
 - [Definición](#definición)
   - [Características escenciales](#características-escenciales)
-  - [Key Features](#key-features)
+  - [Modelos de servicio](#modelos-de-servicio)
   - [Technological Stack](#technological-stack)
   - [Project Workflow](#project-workflow)
   - [Impact](#impact)

@@ -37,13 +37,14 @@ Los proyectos sen estudiados y documentados para hacerlos reproducibles por los 
 
 <h3 align="center">Proyectos Actualemente Desarrollados</h3>
 
-- Yahoo Finance: Propósito de este próyecto es análizar las 10 empresas con mayor capitalización de mercado del SP100 y el SP500.
+1. Yahoo Finance: Propósito de este próyecto es análizar las 10 empresas con mayor capitalización de mercado del SP100 y el SP500.
 
-[Despliegue en Azure](https://github.com/roscha10/Azure_DCC/blob/main/README.md)
+| Proyecto nª     | Azure | GCP                                                          | AWS                                                              |
+| ---------------- | ----- | ------------------------------------------------------------ | ---------------------------------------------------------------- |
+| 1: Yahoo Finance | repo  | [repo](https://github.com/datacloudclub/GCP-Asesor_financiero/) | [repo](https://github.com/datacloudclub/aws-pipeline-yahoo-finance) |
+|                  |       |                                                              |                                                                  |
+|                  |       |                                                              |                                                                  |
 
-[Despliegue en GCP]()
-
-[Despliegue en AWS](https://github.com/datacloudclub/aws-pipeline-yahoo-finance)
 
 <h2 align="center">Preguntas frecuentes</h2>
 
