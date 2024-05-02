@@ -43,7 +43,7 @@ Los proyectos sen estudiados y documentados para hacerlos reproducibles por los 
 
 [Despliegue en GCP]()
 
-[Despliegue en AWS]()
+[Despliegue en AWS](https://github.com/datacloudclub/aws-pipeline-yahoo-finance)
 
 <h2 align="center">Preguntas frecuentes</h2>
 
