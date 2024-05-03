@@ -41,7 +41,7 @@ Los proyectos sen estudiados y documentados para hacerlos reproducibles por los 
 
 | n | Proyecto      | Azure | GCP                                                          | AWS                                                              |
 | - | ------------- | ----- | ------------------------------------------------------------ | ---------------------------------------------------------------- |
-| 1 | Yahoo Finance | repo  | [repo](https://github.com/datacloudclub/GCP-Asesor_financiero/) | [repo](https://github.com/datacloudclub/aws-pipeline-yahoo-finance) |
+| 1 | Yahoo Finance | [repo](https://github.com/roscha10/Azure_DCC/tree/main)  | [repo](https://github.com/datacloudclub/GCP-Asesor_financiero/) | [repo](https://github.com/datacloudclub/aws-pipeline-yahoo-finance) |
 |   |               |       |                                                              |                                                                  |
 |   |               |       |                                                              |                                                                  |
 |   |               |       |                                                              |                                                                  |
