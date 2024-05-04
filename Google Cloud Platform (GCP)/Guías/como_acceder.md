@@ -1,5 +1,20 @@
 # Cómo acceder a la prueba gratituita con un crédito de US$300 para usar GCP
 
+## Objetivo
+
+La presente guía sirve para iniciar el período de prueba de gratuita y acceder a los US$ 300 de saldo por 90 días en GCP.
+
+![1714858413122](https://file+.vscode-resource.vscode-cdn.net/c%3A/Projects/datacloudclub/Google%20Cloud%20Platform%20%28GCP%29/Gu%C3%ADas/image/como_acceder/1714858413122.png)
+
+
+## Tabla de contenido
+
+* [Objetivo]()
+* [Importante]()
+* [Crear una cuenta de Gmail (opcional)]()
+* [Ingresar a la Consola de GCP]()
+* [Iniciar el período de prueba, adjuntar información personal y tarjeta]()
+
 ## Importante
 
 * GCP utiliza un sistema de pago diferido mensualmente. Quiere decir que a fin de mes factura por los recursos utilizados a lo largo del mes por todos los proyectos asociados a la cuenta de facturación.
@@ -23,6 +38,22 @@ En caso de haber utilizado ya tu prueba gratuita de 90 días en tu cuenta de Gma
 
 ![Crear cuenta nueva](image/como_acceder/1714847453295.png)
 
+Una vez que contemos con una cuenta de Gmail, proseguimos a inciar el período de prueba.
+
 ## Ingresar a la Consola de GCP
 
 A través de [http://console.cloud.google.com](http://console.cloud.google.com) accedemos a la Consola de GCP.
+
+![1714858288879](image/como_acceder/1714858288879.png)
+
+Para iniciar el período de prueba, hacemos click sobre "comenzar gratis" en la barra superior o "probar gratis".
+
+Nótese como garantiza que si se acaba el saldo, no se generarán cargos.
+
+Y veremos la siguiente pantalla:
+
+![1714858413122](image/como_acceder/1714858413122.png)
+
+Al aceptar y continuar pasamos al paso de ingreso de información personal y datos de facturación.
+
+## Iniciar el período de prueba, adjuntar información personal y tarjeta
