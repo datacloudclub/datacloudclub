@@ -8,7 +8,11 @@
 * Al comenzar el período de prueba, la cuenta no está formalmente "activada".
 * Para activar una cuenta, el usuario debe explícitamente activarla. No sucede de forma automática.
 * Cada cuenta de Gmail tiene derecho a acceder al beneficio de prueba gratuita con un saldo de regalo de US$ 300 durante 90 días sin ningún tipo de cargo a nuestro nombre. Para ello requiere una tarjeta de crédito o débito correctamente habilitada que esté asociada a la cuenta de facturación de GCP.
-* Durante el período de prueba, veremos gastos realizados por los servicios utilizados, pero automáticamente lo veremos descontado en concepto de "promociones y otros créditos" y veremos cómo se ha restado del saldo de US$ 300, como muestra la imagen:Ningún cargo se hará sobre la tarjeta ni reserva del saldo, es simplemente para constatar que hay una persona detrás.
+* Durante el período de prueba, veremos gastos realizados por los servicios utilizados, pero automáticamente lo veremos descontado en concepto de "promociones y otros créditos" y veremos cómo se ha restado del saldo de US$ 300, como muestra la imagen:
+
+![Facturación](image/como_acceder/1714857450758.png)
+
+* Ningún cargo se hará sobre la tarjeta ni reserva del saldo, es simplemente para constatar que hay una persona detrás.
 * Pasados los 90 días o el saldo llega a US$ 0, se suspenden todos los servicios asociados a la cuenta de facturación. No se genera ningún cargo por mantener instancias abiertas. A partir de este momento, se puede desvincular la tarjeta de la cuenta.
 * Para desvincular un proyecto de una cuenta de facturación, primero hay que suspender todos los servicios activos de ese proyecto.
 * Los proyectos permanencen mientras no generen gastos y pueden ser reutilizados al asociarlos a otra cuenta de facturación. Es decir, los proyectos persisten y se pueden activar/desactivar al asociar/desvincular una cuenta de facturación a ellos.
@@ -17,7 +21,7 @@
 
 En caso de haber utilizado ya tu prueba gratuita de 90 días en tu cuenta de Gmail, puedes crear otra cuenta nueva para acceder nuevamente al beneficio.
 
-![1714847453295](image/como_acceder/1714847453295.png)
+![Crear cuenta nueva](image/como_acceder/1714847453295.png)
 
 ## Ingresar a la Consola de GCP
 
