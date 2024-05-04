@@ -4,7 +4,7 @@
 
 La presente guía sirve para iniciar el período de prueba de gratuita y acceder a los US$ 300 de saldo por 90 días en GCP.
 
-![1714858413122](https://file+.vscode-resource.vscode-cdn.net/c%3A/Projects/datacloudclub/Google%20Cloud%20Platform%20%28GCP%29/Gu%C3%ADas/image/como_acceder/1714858413122.png)
+![1714858413122](image/como_acceder/1714858413122.png)
 
 
 ## Tabla de contenido
