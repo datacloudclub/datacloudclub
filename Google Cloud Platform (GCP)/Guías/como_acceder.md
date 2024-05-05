@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-La presente guía sirve para iniciar el período de prueba gratuita y acceder a los US$ 300 de saldo por 90 días en GCP.
+La presente guía sirve para iniciar el período de prueba gratuita y acceder a los US$ 300 de crédito por 90 días en GCP.
 
 ![1714858413122](image/como_acceder/1714858413122.png)
 
@@ -13,6 +13,7 @@ La presente guía sirve para iniciar el período de prueba gratuita y acceder a 
 * [Crear una cuenta de Gmail (opcional)](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#crear-una-cuenta-de-gmail-opcional)
 * [Ingresar a la Consola de GCP](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#ingresar-a-la-consola-de-gcp)
 * [Iniciar el período de prueba, adjuntar información personal y tarjeta](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#ingresar-a-la-consola-de-gcp)
+* Cómo consulto el crédito
 
 ## Importante
 
@@ -21,8 +22,8 @@ La presente guía sirve para iniciar el período de prueba gratuita y acceder a 
 * Las cuentas comienzan a facturar a nombre del cliente a partir del momento en que son "Activadas".
 * Al comenzar el período de prueba, la cuenta no está formalmente "activada".
 * Para activar una cuenta, el usuario debe explícitamente activarla. No sucede de forma automática.
-* Cada cuenta de Gmail tiene derecho a acceder al beneficio de prueba gratuita con un saldo de regalo de US$ 300 durante 90 días sin ningún tipo de cargo a nuestro nombre. Para ello requiere una tarjeta de crédito o débito correctamente habilitada que esté asociada a la cuenta de facturación de GCP.
-* Durante el período de prueba, veremos gastos realizados por los servicios utilizados, pero automáticamente lo veremos descontado en concepto de "promociones y otros créditos" y veremos cómo se ha restado del saldo de US$ 300, como muestra la imagen:
+* Cada cuenta de Gmail tiene derecho a acceder al beneficio de prueba gratuita con un crédito de regalo de US$ 300 durante 90 días sin ningún tipo de cargo a nuestro nombre. Para ello requiere una tarjeta de crédito o débito correctamente habilitada que esté asociada a la cuenta de facturación de GCP.
+* Durante el período de prueba, veremos gastos realizados por los servicios utilizados, pero automáticamente lo veremos descontado en concepto de "promociones y otros créditos" y veremos cómo se ha restado del crédito de US$ 300, como muestra la imagen:
 
 ![Facturación](image/como_acceder/1714857450758.png)
 
@@ -63,6 +64,6 @@ Luego se debe completar con la información de domicilio y tarjeta.
 
 ## Y ¡listo!
 
-Ya pueden comenzar a utilizar los servicios de GCP.
+Ya pueden comenzar a utilizar los servicios de GCP con el crédito de US$ 300 por 90 días.
 
 ![1714886818540](image/como_acceder/1714886818540.png)
