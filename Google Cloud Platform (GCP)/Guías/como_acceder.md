@@ -56,3 +56,13 @@ Y veremos la siguiente pantalla:
 Al aceptar y continuar pasamos al paso de ingreso de información personal y datos de facturación.
 
 ## Iniciar el período de prueba, adjuntar información personal y tarjeta
+
+Luego se debe completar con la información de domicilio y tarjeta.
+
+![1714886572875](image/como_acceder/1714886572875.png)
+
+## Y ¡listo!
+
+Ya pueden comenzar a utilizar los servicios de GCP.
+
+![1714886818540](image/como_acceder/1714886818540.png)
