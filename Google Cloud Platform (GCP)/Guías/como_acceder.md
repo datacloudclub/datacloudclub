@@ -2,18 +2,17 @@
 
 ## Objetivo
 
-La presente guía sirve para iniciar el período de prueba de gratuita y acceder a los US$ 300 de saldo por 90 días en GCP.
+La presente guía sirve para iniciar el período de prueba gratuita y acceder a los US$ 300 de saldo por 90 días en GCP.
 
 ![1714858413122](image/como_acceder/1714858413122.png)
 
-
 ## Tabla de contenido
 
-* [Objetivo]()
-* [Importante]()
-* [Crear una cuenta de Gmail (opcional)]()
-* [Ingresar a la Consola de GCP]()
-* [Iniciar el período de prueba, adjuntar información personal y tarjeta]()
+* [Objetivo](#objetivo)
+* [Importante](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#importante)
+* [Crear una cuenta de Gmail (opcional)](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#crear-una-cuenta-de-gmail-opcional)
+* [Ingresar a la Consola de GCP](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#ingresar-a-la-consola-de-gcp)
+* [Iniciar el período de prueba, adjuntar información personal y tarjeta](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#ingresar-a-la-consola-de-gcp)
 
 ## Importante
 
