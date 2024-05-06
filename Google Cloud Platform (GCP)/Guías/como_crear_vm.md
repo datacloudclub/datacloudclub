@@ -8,9 +8,9 @@ La presente guía demuestra como crear una instancia de máquina virtual y cómo
 
 ## Tabla de contenido
 
-* [Objetivo](#objetivo)
-* [Creando una instancia](#creando-una-instancia)
-* [Configurando la nueva máquina virtual](#configurando-la-nueva-máquina-virtual)
+* [Objetivo](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#objetivo)
+* [Creando una instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#creando-una-instancia)
+* [Configurando la nueva máquina virtual](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#configurando-la-nueva-m%C3%A1quina-virtual)
   * [Nombre, región y zona](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#nombre-regi%C3%B3n-y-zona)
   * [Serie y tipo de máquina](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#serie-y-tipo-de-m%C3%A1quina)
   * [Disco duro y sistema operativo](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#disco-duro-y-sistema-operativo)
@@ -45,6 +45,8 @@ Una vez que se encuentre habilitada la API, vamos a poder utilizar el servicio.
 
 Dentro de Compute Engine, en Instancias de VM que es el servicio que se muestra de forma predeterminada, hacemos click sobre "Crear Instancia" para crear una nueva máquina virtual.
 
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
+
 ## Configurando la nueva máquina virtual
 
 ### Nombre, región y zona
@@ -63,6 +65,8 @@ Elegimos:
 El motivo de esta elección es que todos los servicios de GCP funcionan en una zona. No todos los servicios están disponibles en todas las zonas, como por ejemplo sucede con Sudamérica San Pablo o Santiago.
 
 De manera que si queremos hacer uso de todos los servicios, deberemos elegir una zona donde estén todos disponibles. Además los procesos se llevan a cabo de manera remota. Por lo tanto, la interconexión entre los servicios en la nube se hará íntegramente en Iowa.
+
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
 
 ### Serie y tipo de máquina
 
@@ -88,6 +92,8 @@ En cuanto al tipo de máquina, el tipo e2-micro está incluido en la capa gratui
 
 ![1714959281459](image/como_crear_vm/1714959281459.png)
 
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
+
 ### Disco duro y sistema operativo
 
 Para cambiar el sistema operativo y el tamaño del disco, hacemos click en el botón "Cambiar"
@@ -107,7 +113,7 @@ Hacemos click en seleccionar para cerrar la ventana y confirmamos que los cambio
 
 ![1714959346289](image/como_crear_vm/1714959346289.png)
 
-[volver a la Tabla de contenidos](#tabla-de-contenidos)
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
 
 ### Configuraciones avanzadas de dirección IPv4 externa estática
 
@@ -143,7 +149,7 @@ Al hacer click en "Reservar Dirección IP Externa Estática, veremos el siguient
 
 ![1714959521019](image/como_crear_vm/1714959521019.png)
 
-[volver a la Tabla de contenidos](#tabla-de-contenidos)
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
 
 ### Finalizar la configuración y crear la instancia
 
@@ -168,4 +174,4 @@ Nótese la siguiente configuración de la instancia (este es mi ejemplo, en su c
 
 Haciendo click en el botón **SSH**, se inicia en una ventana nueva la terminar para acceder a la instancia creada.
 
-[volver a la Tabla de contenidos](#tabla-de-contenidos)
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
