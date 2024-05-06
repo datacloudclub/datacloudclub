@@ -1,4 +1,4 @@
-# Cómo acceder a la prueba gratituita con un crédito de US$300 para usar GCP
+# Cómo acceder a la prueba gratuita con un crédito de US$300 para usar GCP
 
 ## Objetivo
 
