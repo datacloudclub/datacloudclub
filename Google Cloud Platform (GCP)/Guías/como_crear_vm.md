@@ -4,9 +4,7 @@
 
 La presente guía demuestra como crear una instancia de máquina virtual y cómo realizar la configuración incial.
 
-![1714959679112](https://file+.vscode-resource.vscode-cdn.net/c%3A/Projects/datacloudclub/Google%20Cloud%20Platform%20%28GCP%29/Gu%C3%ADas/image/como_crear_vm/1714959679112.png)
-
-
+![1714959679112](image/como_crear_vm/1714959679112.png)
 
 ## Tabla de contenido
 
