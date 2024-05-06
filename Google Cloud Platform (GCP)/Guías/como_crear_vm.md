@@ -1,4 +1,4 @@
-# Cómo crear una máquina virtual
+# Cómo crear una instancia de máquina virtual
 
 ## Objetivo
 
@@ -141,7 +141,7 @@ Casi en el fondo encontramos la dirección IPv4 externa, por definición es Efí
 
 ![1714959492147](image/como_crear_vm/1714959492147.png)
 
-Haciendo click en dirección IPv4 externa podemos encontrar la opción para "Reservar dirección IP externa estática" para que sea fija.
+Haciendo click en dirección IPv4 externa podemos encontrar la opción para "Reservar dirección IP externa estática", para que sea fija.
 
 ![1714959510244](image/como_crear_vm/1714959510244.png)
 

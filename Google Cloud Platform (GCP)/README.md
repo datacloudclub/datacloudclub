@@ -16,6 +16,9 @@ En el presente repositorio, vas a encontrar guías de uso de la plataforma que r
 
 ## Máquina virtual (VM): creación, modificación, eliminación y cómo conectarse vía remota
 
-[Cómo crear una máquina virtual](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md)
+[Cómo crear una instancia de máquina virtual](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md)
+
+
+[Administrar una instancia de máquina virtual]()
 
 [Cómo conectarse a la máquina virtual mediante terminal y desde VSC]()
