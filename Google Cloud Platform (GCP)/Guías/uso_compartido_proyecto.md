@@ -6,8 +6,8 @@ La presente guía muestra cómo compartir el presente proyecto con otras persona
 
 ## Tabla de contenidos
 
-* [Asignar un rol a otra cuenta]()
-* [Eliminar un rol asignado]()
+* [Asignar un rol a otra cuenta](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/uso_compartido_proyecto.md#asignar-un-rol-a-otra-cuenta)
+* [Eliminar un rol asignado](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/uso_compartido_proyecto.md#eliminar-un-rol-asignado)
 
 ## Asignar un rol a otra cuenta
 
@@ -68,7 +68,7 @@ Se recomienda leer con detención los roles que existen para poder determinar la
 Recuerda que los roles pueden ser cambiados en cualquier momento por el propietario del proyecto.
 
 
-[volver a la Tabla de contenidos]()
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/uso_compartido_proyecto.md#tabla-de-contenidos)
 
 
 ## Eliminar un rol asignado
@@ -84,3 +84,6 @@ Nos preguntará si queremos quitar a la cuenta asociada:
 De esta manera se elimina el acceso de la cuenta:
 
 ![1714975645578](image/uso_compartido_proyecto/1714975645578.png)
+
+
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/uso_compartido_proyecto.md#tabla-de-contenidos)
