@@ -8,11 +8,11 @@ La presente guía demuestra cómo detener, modificar, eliminar e iniciar una ins
 
 ## Tabla de contenido
 
-* [Objetivo](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#objetivo)
-* [Detener una instancia]()
-* [Editar una instancia]()
-* [Eliminar una instancia]()
-* [Iniciar una instancia]()
+* [Objetivo](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#objetivo)
+* [Detener una instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#detener-una-instancia)
+* [Editar una instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#editar-una-instancia)
+* [Eliminar una instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#eliminar-una-instancia)
+* [Iniciar una instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#iniciar-una-instancia)
 
 ## Detener una instancia
 
@@ -38,7 +38,9 @@ Mientras la instancia esté detenida, no es posible acceder a ella vía SSH.
 
 Algunas modificaciones en su configuración y la eliminación de la instancia, ambas requieren que la instancia esté detenida.
 
-volver a Tabla de contenido
+
+[volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
+
 
 ## Editar una instancia
 
@@ -56,6 +58,11 @@ Y haciendo click sobre el lapiz "Editar" vamos a poder editar la configuración 
 
 Aquí lo único que no vamos a poder cambiar es la zona y región de la instancia. Luego desde el nombre, serie de computadora, capacidad de disco persistente, sistema opertativo, vamos a poder modificar aquí una vez creada la instancia.
 
+
+
+[volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
+
+
 ## Eliminar una instancia
 
 Para eliminar una instancia, la misma debe estar detenida. Seleccionamos la instancia que deseamos eliminar:
@@ -68,12 +75,20 @@ Hacemos click sobre el botón "Borrar" y recibimos la siguiente advertencia:
 
 Al hacer click sobre "Borrar" comenzará la eliminación de la instancia y, dependiendo de la configuración inicial, también eliminará el disco asociado a la misma.
 
+
+
+[volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
+
+
 ## Iniciar una instancia
 
 Para iniciar una instancia detenida, seleccionamos la instancia detenida:
 
-![1714947078647](https://file+.vscode-resource.vscode-cdn.net/c%3A/Projects/GCP-Asesor_financiero/image/README/1714947078647.png)
+![1714970921122](image/modificar_instancia/1714970921122.png)
 
 Hacemos click sobre el botón "Iniciar/Reanudar", y nos recuerda que iniciar una instancia viene con un costo asociado según su configuración. Damos click sobre "Inicio" para iniciar la instancia.
 
 ![1714970071884](image/modificar_instancia/1714970071884.png)
+
+
+[volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)

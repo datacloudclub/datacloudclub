@@ -8,7 +8,7 @@ En el presente repositorio, vas a encontrar guías de uso de la plataforma que r
 
 [Cómo acceder a la prueba gratituita con un crédito de US$300 para usar GCP](./Guías/como_acceder.md)
 
-[Cómo habilitar a otros compañeros a usar mi cuenta de facturación para que podamos trabajar colaborativamente sin que tengan que activar el período de prueba gratuito]()
+[Cómo compartir mi proyecto con otras personas]()
 
 [Descarga e instalación de Gcloud CLI para conectarme de manera remota a los servicios en la nube]()
 
@@ -19,6 +19,6 @@ En el presente repositorio, vas a encontrar guías de uso de la plataforma que r
 [Cómo crear una instancia de máquina virtual](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md)
 
 
-[Administrar una instancia de máquina virtual]()
+[Administrar una instancia de máquina virtual](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md)
 
 [Cómo conectarse a la máquina virtual mediante terminal y desde VSC]()

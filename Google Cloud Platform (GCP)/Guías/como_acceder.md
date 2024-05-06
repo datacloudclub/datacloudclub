@@ -31,6 +31,9 @@ La presente guía sirve para iniciar el período de prueba gratuita y acceder a 
 * Para desvincular un proyecto de una cuenta de facturación, primero hay que suspender todos los servicios activos de ese proyecto.
 * Los proyectos permanencen mientras no generen gastos y pueden ser reutilizados al asociarlos a otra cuenta de facturación. Es decir, los proyectos persisten y se pueden activar/desactivar al asociar/desvincular una cuenta de facturación a ellos.
 
+[volver a la Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#tabla-de-contenido)
+
+
 ## Crear una cuenta de Gmail (opcional)
 
 En caso de haber utilizado ya tu prueba gratuita de 90 días en tu cuenta de Gmail, puedes crear otra cuenta nueva para acceder nuevamente al beneficio.
@@ -38,6 +41,10 @@ En caso de haber utilizado ya tu prueba gratuita de 90 días en tu cuenta de Gma
 ![Crear cuenta nueva](image/como_acceder/1714847453295.png)
 
 Una vez que contemos con una cuenta de Gmail, proseguimos a inciar el período de prueba.
+
+
+[volver a la Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#tabla-de-contenido)
+
 
 ## Ingresar a la Consola de GCP
 
@@ -55,6 +62,10 @@ Y veremos la siguiente pantalla:
 
 Al aceptar y continuar pasamos al paso de ingreso de información personal y datos de facturación.
 
+
+[volver a la Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#tabla-de-contenido)
+
+
 ## Iniciar el período de prueba, adjuntar información personal y tarjeta
 
 Luego se debe completar con la información de domicilio y tarjeta.
@@ -66,3 +77,6 @@ Luego se debe completar con la información de domicilio y tarjeta.
 Ya pueden comenzar a utilizar los servicios de GCP con el crédito de US$ 300 por 90 días.
 
 ![1714886818540](image/como_acceder/1714886818540.png)
+
+
+[volver a la Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#tabla-de-contenido)
