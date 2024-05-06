@@ -13,7 +13,6 @@ La presente guía sirve para iniciar el período de prueba gratuita y acceder a 
 * [Crear una cuenta de Gmail (opcional)](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#crear-una-cuenta-de-gmail-opcional)
 * [Ingresar a la Consola de GCP](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#ingresar-a-la-consola-de-gcp)
 * [Iniciar el período de prueba, adjuntar información personal y tarjeta](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_acceder.md#ingresar-a-la-consola-de-gcp)
-* Cómo consulto el crédito
 
 ## Importante
 

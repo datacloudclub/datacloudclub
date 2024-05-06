@@ -1,4 +1,25 @@
-# Creación de una instancia de máquina virtual
+# Cómo crear una máquina virtual
+
+## Objetivo
+
+La presente guía demuestra como crear una instancia de máquina virtual y cómo realizar la configuración incial.
+
+![1714959679112](https://file+.vscode-resource.vscode-cdn.net/c%3A/Projects/datacloudclub/Google%20Cloud%20Platform%20%28GCP%29/Gu%C3%ADas/image/como_crear_vm/1714959679112.png)
+
+
+
+## Tabla de contenido
+
+* [Objetivo](#objetivo)
+* [Creando una instancia](#creando-una-instancia)
+* [Configurando la nueva máquina virtual](#configurando-la-nueva-máquina-virtual)
+  * [Nombre, región y zona](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#nombre-regi%C3%B3n-y-zona)
+  * [Serie y tipo de máquina](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#serie-y-tipo-de-m%C3%A1quina)
+  * [Disco duro y sistema operativo](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#disco-duro-y-sistema-operativo)
+  * [Configuraciones avanzadas de dirección IPv4 externa estática](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#configuraciones-avanzadas-de-direcci%C3%B3n-ipv4-externa-est%C3%A1tica)
+  * [Finalizar la configuración y crear la instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#finalizar-la-configuraci%C3%B3n-y-crear-la-instancia)
+
+## Creando una instancia
 
 Podemos ingresar desde la Consola de GCP: [http://console.cloud.google.com](http://console.cloud.google.com).
 
@@ -92,7 +113,7 @@ Hacemos click en seleccionar para cerrar la ventana y confirmamos que los cambio
 
 ### Configuraciones avanzadas de dirección IPv4 externa estática
 
-Para el presente ejemplo no vamos a introducir más cambios con lo que podemos hacer click en "Crear".
+Para el presente ejemplo no vamos a introducir más cambios. Se puede proceder a [Finalizar la configuración y crear la instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#finalizar-la-configuraci%C3%B3n-y-crear-la-instancia).
 
 Pero vale notar una configuración extra que puede ser de utilidad y comodidad. Puede ser modificada en cualquier momento.
 
