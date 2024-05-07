@@ -6,7 +6,7 @@ La presente guía muestra cómo utilizar las herramientas de desarrollador de Go
 
 Para más información, ver [la página de documentación oficial del Google Cloud SDK](https://cloud.google.com/sdk?hl=es-419).
 
-Para ver la lista completa de comandos de gcloud: [ver documentación oficial del comando gcloud](https://cloud.google.com/sdk/gcloud/reference)
+Para ver la lista completa de comandos de `gcloud`: [ver documentación oficial del comando gcloud](https://cloud.google.com/sdk/gcloud/reference)
 
 ## Tabla de contenidos
 
