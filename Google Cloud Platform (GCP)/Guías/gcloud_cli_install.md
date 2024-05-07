@@ -6,10 +6,13 @@ La presente guía muestra cómo utilizar las herramientas de desarrollador de Go
 
 Para más información, ver [la página de documentación oficial del Google Cloud SDK](https://cloud.google.com/sdk?hl=es-419).
 
+Para ver la lista completa de comandos de gcloud: [ver documentación oficial]([volver a Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/gcloud_cli_install.md#tabla-de-contenidos))
+
 ## Tabla de contenidos
 
-* [Descarga de Gcloud CLI]()
-* [Instalación de Gcloud CLI]()
+* [Descarga de Gcloud CLI](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/gcloud_cli_install.md#descarga-de-gcloud-cli)
+* [Instalación de Gcloud CLI](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/gcloud_cli_install.md#instalaci%C3%B3n-de-gcloud-cli)
+* Comandos útiles para inicio de sesión
 
 ## Descarga de Gcloud CLI
 
@@ -66,3 +69,19 @@ Después nos pregunta si queremos definir una Región y Zona por defecto, decimo
 ![1715017021290](image/gcloud_cli_install/1715017021290.png)
 
 ## ¡Y listo! Ya tenemos la línea de comando Gcloud CLI correctamente instalada y asociada al proyecto que queremos trabajar.
+
+[volver a Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/gcloud_cli_install.md#tabla-de-contenidos)
+
+
+## Comandos útiles para inicio de sesión
+
+Se provee de una pequeña lista de comandos de `gcloud` para aquellas circunstancias que estemos trabajando con distintos usuarios y proyectos en simultáneo. 
+
+Es importante remarcar que cambiar de proyecto a través de la página web en la Consola de GCP, no cambia el proyecto o usuario en `gcloud` y para ello es necesario conocer los siguientes comandos:
+
+* Para iniciar sesión con Gmail a GCP: `gcloud auth login`
+* Para cerrar sesión en GCP: `gcloud auth revoke`
+* Para ver la lista de proyectos y verificar el proyecto activo: `gcloud projects list`
+* Para reiniciar la conexión con GCP, cambiar de usuario o de proyecto: `gcloud init`
+
+[volver a Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/gcloud_cli_install.md#tabla-de-contenidos)
