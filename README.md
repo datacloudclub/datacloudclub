@@ -2,13 +2,13 @@
 
 <h1 align="center"> Data Cloud Club </h1>
 
-En un mundo cada vez más digitalizado y orientado a los datos, la capacidad de adaptarse y adoptar las tecnologías emergentes es fundamental para el éxito profesional. Al observar la creciente demanda de habilidades en la nube por parte de las empresas y las limitaciones técnicas que enfrentan muchos profesionales al realizar entrenamiento de modelos de machine learning en sus computadoras, surge la motivación para la creación de una comunidad virtual: **Data Cloud Club**.
+En un mundo cada vez más digitalizado y orientado a los datos, la capacidad de adaptarse y adoptar las tecnologías emergentes es fundamental para el éxito profesional. Al observar la creciente demanda de habilidades en la nube por parte de las empresas y las limitaciones técnicas, que enfrentan muchos profesionales al realizar entrenamiento de modelos de machine learning en sus computadoras, surge la motivación para la creación de una comunidad virtual: **Data Cloud Club**.
 
 Con un enfoque en la auto-capacitación práctica y el desarrollo de habilidades, a través de esta comunidad se ofrece un espacio de aprendizaje colaborativo donde los miembros pueden explorar el vasto mundo de la computación en la nube y los beneficios que trae para el mundo de los datos. Se centra en el aprendizaje continuo y el intercambio de conocimientos entre sus miembros.
 
 <h2 align="center">Misión</h2>
 
-“Empoderar a nuestros miembros para que dominen habilidades trabajando con sistemas virtuales en la nube y se conviertan en profesionales altamente competentes en el manejo de datos. Proporcionamos un espacio inclusivo y respetuoso de aprendizaje basado en proyectos colaborativos, compartiendo conocimientos y fomentando la innovación.”
+“Empoderar a nuestros miembros para que adquieran nuevas habilidades, trabajando con sistemas virtuales en la nube y se conviertan en profesionales altamente competentes en el manejo de datos. Proporcionamos un espacio inclusivo y respetuoso de aprendizaje basado en proyectos colaborativos, compartiendo conocimientos y fomentando la innovación.”
 
 <h2 align="center">Visión</h2>
 
@@ -31,9 +31,9 @@ Con un enfoque en la auto-capacitación práctica y el desarrollo de habilidades
 
 <h2 align="center">Tipos de Proyectos</h2>
 
-Los proyectos que se desarrollaran en **DCC**, están están orientados al uso de arquitecturas de tecnología que comprendan todo el ciclo de vida del dato, desde su ingesta hasta machine learning.
+Los proyectos que se desarrollaran en **DCC**, están orientados al uso de arquitecturas de tecnología que comprendan todo el ciclo de vida del dato, desde su ingesta hasta machine learning.
 
-Los proyectos sen estudiados y documentados para hacerlos reproducibles por los miembros de la comunidad, y contemplaran el uso de los 3 proveedores principales de nube pública **AWS, AZURE y GCP**.
+Los proyectos son estudiados y documentados para hacerlos reproducibles por los miembros de la comunidad, y contemplaran el uso de los 3 proveedores principales de nube pública **AWS, AZURE y GCP**.
 
 <h3 align="center">Proyectos Actualemente Desarrollados</h3>
 
@@ -54,7 +54,7 @@ Cómo miembro de la comunidad tendrás el derecho y el deber de aportar dentro d
 - ¡Muestra cómo lo hiciste! Si lograste reproducir uno de los proyecto. Compartelo con la comunidad y sé abierto a recibir feedback.
 - ¿Tienes alguna duda? Pregunta a la comunidad, seguro alguien podrá ayudarte.
 - Colabora con los compañeros que tienen dudas, ayuda a brindar una respuesta a las dudas que se presenten.
-- Busca compañeros de aprendizaje, invita a miembros de la comunidad a que reproduzcan algun de los proyectos juntos o creen uno. Seguro lograrán algo genial.
+- Busca compañeros de aprendizaje, invita a miembros de la comunidad a que reproduzcan alguno de los proyectos juntos o creen uno desde 0. Seguro lograrán algo genial.
 
 <h3 align="center">Lo que no conseguirás dentro de la comunidad</h3>
 
@@ -68,7 +68,7 @@ El equipo de desarrollo de proyectos ha elaborado un material especial para nive
 
 <h3 align="center">Si tengo algún problema, ¿a quién acudo?</h3>
 
-Este es un espacio creado de Henrys para Henrys, primeramente puedes acudir a cualquiera de los miembros del equipo de desarrollo. Sin embargo nos regimos por el código de conducta de Henry.
+Este es un espacio creado de Henrys para Henrys, primeramente puedes acudir a cualquiera de los miembros del equipo de desarrollo.
 
 <h2 align="center">¿Te gustaría formar parte del equipo de desarrollo de DCC?</h2>
 
