@@ -8,15 +8,17 @@ Ver documentación oficial: [Acerca de las conexiones SSH](https://cloud.google.
 
 ## Tabla de contenidos
 
-* [Requisitos]()
-* [Generación de clave y credenciales]()
-* [Vincular las credenciales con Compute Engine]()
-* [Probemos ahora que podemos conectarnos a la instancia via SSH]()
+* [Requisitos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#requisitos)
+* [Generación de clave y credenciales](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#generaci%C3%B3n-de-claves-y-credenciales)
+* [Vincular las credenciales con Compute Engine](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#vincular-las-credenciales-con-compute-engine)
+* [Probemos ahora que podemos conectarnos a la instancia via SSH](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#vincular-las-credenciales-con-compute-engine)
 
 ## Requisitos
 
 * Tener instalado Gcloud CLI: [Descarga e instalación de Gcloud CLI para conectarme de manera remota a los servicios en la nube](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/gcloud_cli_install.md)
 * Tener sesión iniciada en `gcloud` de lo contrario, hacer `gcloud init` e iniciar sesión en el proyecto que se quiera aplicar las credenciales.
+
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#tabla-de-contenidos)
 
 ## Generación de claves y credenciales
 
@@ -59,7 +61,7 @@ Finalmente emite las credenciales:
 
 Quiere decir que ahora tenemos dos credenciales, una privada llamada `gcp` que nunca debemos exhibir, y la pública llamada `gcp.pub`
 
-[volver a la Tabla de contenidos]()
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#tabla-de-contenidos)
 
 ## Vincular las credenciales con Compute Engine
 
@@ -115,7 +117,9 @@ Host yfinance
 
 De esta manera. Apretamos CTRL + S para guardar, o Archivo > Guardar.
 
-## ¡Y listo!
+## ¡Y listo! Hemos logrado configurar la conexión SSH
+
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#tabla-de-contenidos)
 
 ## Probemos ahora que podemos conectarnos a la instancia via SSH
 
@@ -142,3 +146,5 @@ Ponemos "yes":
 ![1715061749500](image/conexion_ssh/1715061749500.png)
 
 Estaremos conectados directamente a la instancia. Fíjese que ahora en la terminal figura el nombre de usuario declarado en la clave SSH: DCC y el nombre de la instancia: yfinance-vm.
+
+[volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#tabla-de-contenidos)
