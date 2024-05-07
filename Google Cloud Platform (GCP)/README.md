@@ -20,4 +20,4 @@ En el presente repositorio, vas a encontrar guías de uso de la plataforma que r
 
 [Administrar una instancia de máquina virtual](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md)
 
-[Cómo conectarse a la máquina virtual mediante terminal y desde VSC]()
+[Cómo conectarse a la instancia vía SSH]()
