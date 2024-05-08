@@ -1,4 +1,4 @@
-![banner](images/BANNER.jpg)
+![banner](images/BANNERLINKDIN.jpg)
 
 <h1 align="center"> Data Cloud Club </h1>
 
