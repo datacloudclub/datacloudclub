@@ -1,5 +1,5 @@
 
-![banner](images/BANNERLINKDIN.jpg)
+![banner](../images/BANNERLINKDIN.jpg)
 
 # Servicios de Azure para análisis de datos, enfocado en las empresas de NASDAQ-100 y un estudio detallado sobre sus 10 principales empresas por capitalización de mercado
 
@@ -64,7 +64,7 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 •	**Recepción del crédito de $200:** El crédito de $200 estará automáticamente disponible en tu cuenta una vez que la activación sea exitosa.
 
 
-  <img src="image/azure00.jpeg" alt="" width="600">
+  <img src="../images/azure00.jpeg" alt="" width="600">
 
 
 
@@ -97,19 +97,19 @@ Este proyecto mejorará las habilidades técnicas de los participantes en el uso
 7.	Haz clic en "Revisar y crear" y, una vez validados los detalles, en "Crear".
 
 
-<img src="image/azure8.jpg" alt="" width="600">
+<img src="../images/azure8.jpg" alt="" width="600">
 
-<img src="image/azure9.jpg" alt="" width="600">
+<img src="../images/azure9.jpg" alt="" width="600">
 
 ## 4. Creación de un contenedor, dentro de la cuenta de almacenamiento:
 
 El siguiente paso es crear un contenedor. Dentro de la cuenta ADLS, ubique y seleccione la sección "Contenedores", haga clic en  "+ Contenedor" e ingrese el nombre deseado para el contenedor, por ejemplo, "marketdata", luego haga clic en crear.
 
-<img src="image/azure13.jpg" alt="" width="600">
+<img src="../images/azure13.jpg" alt="" width="600">
 
 El siguiente paso es crear dos directorios dentro de este contenedor. Navegue hasta el contenedor específico, haga clic en "Cargar". Ingrese el nombre del directorio como "datos sin procesar" y confirme la creación. Haga clic en "Agregar directorio" nuevamente e ingrese el nombre del directorio como "datos transformados" y confirme la creación. Esta es una forma común de organizar datos.
 
-<img src="image/azure15.jpg" alt="" width="600">
+<img src="../images/azure15.jpg" alt="" width="600">
 
 ## 5. Automatización con Azure Functions: 
 
@@ -134,7 +134,7 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 	•	Haz clic en "Revisar y crear" para verificar tu configuración.
 	•	Finaliza haciendo clic en "Crear" para desplegar la Aplicación de Funciones.
 
-<img src="image/azurefunction.jpg" alt="" width="600">
+<img src="../images/azurefunction.jpg" alt="" width="600">
 
 ### Paso 2: Desarrollar y Desplegar el Script de Python
 1.	**Desarrolla tu Script Localmente:**  
@@ -146,7 +146,7 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 	•	Instala la extensión de Azure Functions en VS Code si aún no lo has hecho. Esto se puede hacer desde la barra lateral de extensiones buscando "Azure Functions" y haciendo clic en instalar.    
 	•	Desde la paleta de comandos, Escribe y selecciona "Azure Functions: Create New Project...".    
 
-<img src="image/azuref1.png" alt="Descripción de la imagen" width="660">  
+<img src="../images/azuref1.png" alt="Descripción de la imagen" width="660">  
 
 •	Asegúrate de que la carpeta del proyecto esté seleccionada, es recomendable crear una carpeta exclusiva para Azure Function.  
 •	Elige "Python" como lenguaje de programación para tu proyecto de Azure Functions.  
@@ -157,14 +157,14 @@ El siguiente paso es crear dos directorios dentro de este contenedor. Navegue ha
 3.	Escribe y selecciona "Azure Functions: Create Function...".
 4.	Sigue los pasos y elige "TimerTrigger" como tipo de disparador.
    
-<img src="image/azuref2.png" alt="Descripción de la imagen" width="660">
+<img src="../images/azuref2.png" alt="Descripción de la imagen" width="660">
 
 5.	Proporciona un nombre a la función, como DailyDataUpdater.
 6.	Establece el cronograma con una expresión CRON que represente tu necesidad (por ejemplo, 0 0 0 * * * para ejecutar a medianoche todos los días).
 7.	Selecciona "Create New Blueprint File" cuando se te pregunte dónde colocar la función.  
 
 
-<img src="image/azuretrigger.jpg" alt="Descripción de la imagen" width="660">
+<img src="../images/azuretrigger.jpg" alt="Descripción de la imagen" width="660">
 
 ## 6. Sube tu Script a Azure:
 Después de haber desarrollado y probado tu script localmente, es el momento de llevarlo a la nube de Azure para su ejecución automatizada. Sigue estos pasos para subir tu script a Azure Functions:
