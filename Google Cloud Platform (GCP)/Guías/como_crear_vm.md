@@ -94,7 +94,7 @@ En cuanto al tipo de máquina, el tipo e2-micro está incluido en la capa gratui
 
 Para cambiar el sistema operativo y el tamaño del disco, hacemos click en el botón "Cambiar"
 
-![1714959297879](image/como_crear_vm/1714959297879.png)
+![1715235616028](image/como_crear_vm/1715235616028.png)
 
 Elegimos la siguiente configuración:
 
