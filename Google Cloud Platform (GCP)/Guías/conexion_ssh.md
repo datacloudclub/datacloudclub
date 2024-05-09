@@ -95,27 +95,18 @@ Seleccionamos todo el texto y lo pegamos en Clave SSH 1 y hacemos click en "Guar
 
 Por último, nuevamente en la terminal abrimos el block de notas para crear el archivo llamado `config` de la siguiente manera `notepad config`
 
-![1715061279859](image/conexion_ssh/1715061279859.png)
+![1715232380572](image/conexion_ssh/1715232380572.png)
 
 Allí deberemos escribir los datos para conectarnos a la instancia.
+
+![1715231567811](image/conexion_ssh/1715231567811.png)
 
 Debemos asignar:
 
 * Nombre a la conexión: en este caso, yfinance
-* Dirección externa de IP: en este caso, 34.135.38.214
+* Dirección externa de IP: en este caso, 35.208.82.103
 * Nombre de usuario (el mismo usado para crear la clave): en este caso, DCC
-* Ubicación del archivo de la clave privada: en este caso, `C:/users/juanp/.ssh/gcp` (en tu caso en lugar de juanp, es el nombre de la carpeta de tu usuario)
-
-```
-Host yfinance
-    HostName 34.135.38.241
-    User DCC
-    IdentityFile C:/users/juanp/.ssh/gcp
-```
-
-![1715061296180](image/conexion_ssh/1715061296180.png)
-
-De esta manera. Apretamos CTRL + S para guardar, o Archivo > Guardar.
+* Ubicación del archivo de la clave privada: en este caso, `C:/users/juanp/.ssh/gcp` (en tu caso en lugar de juanp, es el nombre de la carpeta de tu usuario)Host yfinance
 
 ## ¡Y listo! Hemos logrado configurar la conexión SSH
 
@@ -125,21 +116,15 @@ De esta manera. Apretamos CTRL + S para guardar, o Archivo > Guardar.
 
 Para ello primero verificamos que la instancia está iniciada. En la terminal ingresamos `gcloud compute instances list`
 
-Recordemos que de no haber configurado una dirección de IP externa estática, debermos cambiar el archivo `config` cada vez que apaguemos e iniciemos la instancia.
+![1715231414973](image/conexion_ssh/1715231414973.png)
 
-![1715061413581](image/conexion_ssh/1715061413581.png)
+La instancia está corriendo, en la terminal basta con hacer ssh y el nombre de Host, en este caso nosotros declaramos que se llamaría yfinance: `ssh yfinance`
 
-Dado que cambió la dirección IP externa, entonces en el directorio .ssh (`cd %USERPROFILE%/.ssh`) hacemos `notepad config`
-
-![1715061569250](image/conexion_ssh/1715061569250.png)
-
-Cambiamos la dirección IP y ponemos la actual.
-
-Ahora si, en la terminal basta con hacer ssh y el nombre de Host, en este caso nosotros declaramos que se llamaría yfinance: `ssh yfinance`
+![1715232442354](image/conexion_ssh/1715232442354.png)
 
 Nos preguntará si queremos dejar la huella de nuestro ingreso y agregar nuestra dirección de IP de nuestra computadora local para que acceda mediante SSH a la instancia:
 
-![1715061709410](image/conexion_ssh/1715061709410.png)
+![1715232184603](image/conexion_ssh/1715232184603.png)
 
 Ponemos "yes":
 

@@ -4,7 +4,7 @@
 
 La presente guía demuestra como crear una instancia de máquina virtual y cómo realizar la configuración incial.
 
-![1714959679112](image/como_crear_vm/1714959679112.png)
+![1715232484491](image/como_crear_vm/1715232484491.png)
 
 ## Tabla de contenido
 
@@ -78,19 +78,15 @@ De todas maneras, se puede modificar esta cantidad en cualquier momento posterio
 
 Elegimos la máquina E2 de tipo económico, es la Serie incluída en la capa gratuita.
 
-Para aprovechar el crédito de prueba, podemos elegir cualquiera.
-
 ![1714959250218](image/como_crear_vm/1714959250218.png)
 
 Nótese como al elegir distinto tipo de máquina, cómo varía el precio.
 
-Tener en cuenta que el costo generado por la máquina virtual es mientras se encuentre encendida. Si la máquina virtual está apagada (se puede prender y apagar a voluntad) no genera gastos, pero el disco rígido asociado al ser persistente (que no se borra cuando se apaga la máquina sino que persiste) si genera gastos como figura en la siguiente imagen:
+Tener en cuenta que el costo generado por la máquina virtual es mientras se encuentre encendida. Si la máquina virtual está apagada (se puede prender y apagar a voluntad) no genera gastos.
 
-![1714959260360](image/como_crear_vm/1714959260360.png)
+En cuanto al tipo de máquina, el tipo e2-micro está incluido en la capa gratuita.
 
-En cuanto al tipo de máquina, el tipo e2-micro está incluido en la capa gratuita. Pero para el presente ejemplo usaremos una e2-medium.
-
-![1714959281459](image/como_crear_vm/1714959281459.png)
+![1715231249783](image/como_crear_vm/1715231249783.png)
 
 [volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
 
@@ -117,17 +113,9 @@ Hacemos click en seleccionar para cerrar la ventana y confirmamos que los cambio
 
 ### Configuraciones avanzadas de dirección IPv4 externa estática
 
-Para el presente ejemplo no vamos a introducir más cambios. Se puede proceder a [Finalizar la configuración y crear la instancia](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#finalizar-la-configuraci%C3%B3n-y-crear-la-instancia).
-
-Pero vale notar una configuración extra que puede ser de utilidad y comodidad. Puede ser modificada en cualquier momento.
-
 Cada máquina virtual funciona con una dirección de IP interno de GCP, y una dirección de IP externa donde podemos conectarnos a ella vía remota.
 
 La asignación de la dirección de IP es automática por ser "Efímera" es decir, que nos reserva una dirección IP global mientras la máquina esté encendida, pero al ser apagada, y luego reiniciada, la dirección de IP externa probablemente sea distinta.
-
-Para reservar una dirección IP única para nosotros, GCP nos ofrece la creación de una IP personal (el costo es muy bajo, de US$ 0,10 por día).
-
-![1714959358860](image/como_crear_vm/1714959358860.png)
 
 Para asignarnos una dirección IP externa fija, desplegamos Opciones avanzadas, y luego en Herramientas de redes:
 
@@ -137,7 +125,7 @@ Buscamos donde dice Interfaces de red y desplegamos "default":
 
 ![1714959477329](image/como_crear_vm/1714959477329.png)
 
-Casi en el fondo encontramos la dirección IPv4 externa, por definición es Efímera.
+Casi en el fondo encontramos la dirección IPv4 externa, por definición es Efímera y también conviene elegir Nivel de servicio de red en Estándar para evitar cargos por el uso Premium de la red de alta velocidad de Google.
 
 ![1714959492147](image/como_crear_vm/1714959492147.png)
 
@@ -147,7 +135,11 @@ Haciendo click en dirección IPv4 externa podemos encontrar la opción para "Res
 
 Al hacer click en "Reservar Dirección IP Externa Estática, veremos el siguiente recuadro donde debemos asignar nombre a la dirección de IP reservada:
 
-![1714959521019](image/como_crear_vm/1714959521019.png)
+![1715230891441](image/como_crear_vm/1715230891441.png)
+
+Una vez reservada la dirección de IP, podemos ver cómo queda asociada:
+
+![1715231012044](image/como_crear_vm/1715231012044.png)
 
 [volver a la Tabla de contenidos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/como_crear_vm.md#tabla-de-contenido)
 
@@ -157,7 +149,7 @@ Antes de finalizar, podemos revisar el prespuesto estimado teniendo en cuenta si
 
 Siempre es aconsejable tener en cuenta la página oficial con respecto a los precios: [Página de precios de Compute Engine](https://cloud.google.com/compute/all-pricing)
 
-![1714959652245](image/como_crear_vm/1714959652245.png)
+![1715230867551](image/como_crear_vm/1715230867551.png)
 
 Para finalizar podemos hacer click en "Crear" para crear la instancia
 
@@ -165,12 +157,14 @@ Para finalizar podemos hacer click en "Crear" para crear la instancia
 
 ¡Felicitaciones! Hemos creado una instancia de máquina virtual.
 
-![1714959679112](image/como_crear_vm/1714959679112.png)
+![1715231114682](image/como_crear_vm/1715231114682.png)
 
 Nótese la siguiente configuración de la instancia (este es mi ejemplo, en su caso serán otros valores).
 
-* **Dirección IP interna**: 10.128.0.5
-* **Dirección IP externa**: 34.135.38.214
+* **Dirección IP interna**: 10.128.0.7
+* **Dirección IP externa**: 35.208.82.103
+
+Tomar nota de las direcciones IP porque servirán para las diferentes conexiones que realicemos con la VM. De todas maneras siempre podremos regresar a esta página para revisarlas, o mediante el comando `gcloud compute instance list` en Terminal para que aparezca esta misma tabla.
 
 Haciendo click en el botón **SSH**, se inicia en una ventana nueva la terminar para acceder a la instancia creada.
 

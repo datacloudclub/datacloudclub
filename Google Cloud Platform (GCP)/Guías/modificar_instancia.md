@@ -36,11 +36,9 @@ La dirección IP externa al no ser estática desaparece. Si hubiesemos configura
 
 Mientras la instancia esté detenida, no es posible acceder a ella vía SSH.
 
-Algunas modificaciones en su configuración y la eliminación de la instancia, ambas requieren que la instancia esté detenida.
-
+Algunas modificaciones en su configuración requieren que la instancia esté detenida.
 
 [volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
-
 
 ## Editar una instancia
 
@@ -58,14 +56,11 @@ Y haciendo click sobre el lapiz "Editar" vamos a poder editar la configuración 
 
 Aquí lo único que no vamos a poder cambiar es la zona y región de la instancia. Luego desde el nombre, serie de computadora, capacidad de disco persistente, sistema opertativo, vamos a poder modificar aquí una vez creada la instancia.
 
-
-
 [volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
-
 
 ## Eliminar una instancia
 
-Para eliminar una instancia, la misma debe estar detenida. Seleccionamos la instancia que deseamos eliminar:
+Seleccionamos la instancia que deseamos eliminar:
 
 ![1714970056727](image/modificar_instancia/1714970056727.png)
 
@@ -75,10 +70,7 @@ Hacemos click sobre el botón "Borrar" y recibimos la siguiente advertencia:
 
 Al hacer click sobre "Borrar" comenzará la eliminación de la instancia y, dependiendo de la configuración inicial, también eliminará el disco asociado a la misma.
 
-
-
 [volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
-
 
 ## Iniciar una instancia
 
@@ -89,6 +81,5 @@ Para iniciar una instancia detenida, seleccionamos la instancia detenida:
 Hacemos click sobre el botón "Iniciar/Reanudar", y nos recuerda que iniciar una instancia viene con un costo asociado según su configuración. Damos click sobre "Inicio" para iniciar la instancia.
 
 ![1714970071884](image/modificar_instancia/1714970071884.png)
-
 
 [volver a Tabla de contenido](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/modificar_instancia.md#tabla-de-contenido)
