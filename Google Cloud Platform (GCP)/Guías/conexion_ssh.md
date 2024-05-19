@@ -99,7 +99,7 @@ Por último, nuevamente en la terminal abrimos el block de notas para crear el a
 
 Allí deberemos escribir los datos para conectarnos a la instancia.
 
-![1715231567811](image/conexion_ssh/1715231567811.png)
+![1716101388713](image/conexion_ssh/1716101388713.png)
 
 Debemos asignar:
 
@@ -107,6 +107,7 @@ Debemos asignar:
 * Dirección externa de IP: en este caso, 35.208.82.103
 * Nombre de usuario (el mismo usado para crear la clave): en este caso, DCC
 * Ubicación del archivo de la clave privada: en este caso, `C:/users/juanp/.ssh/gcp` (en tu caso en lugar de juanp, es el nombre de la carpeta de tu usuario)Host yfinance
+* LocalForward significa que el puerto 8888 en la VM será enviado a localhost:8888 cuando inicialicemos el Jupyter Server que utiliza ese puerto, para poder ingresar desde nuestra PC en local.
 
 ## ¡Y listo! Hemos logrado configurar la conexión SSH
 
