@@ -4,7 +4,6 @@ En el presente repositorio, vas a encontrar guías de uso de la plataforma que r
 
 ## Introducción a GCP: creación de cuenta, período de prueba y facturación
 
-[Por qué elegir GCP]()
 
 [Cómo acceder a la prueba gratituita con un crédito de US$300 para usar GCP](./Guías/como_acceder.md)
 
