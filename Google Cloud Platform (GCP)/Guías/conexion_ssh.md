@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-La presente guía muestra cómo generar las credenciales para conectarse a las instancias de VM mediante conexión segura SSH. 
+La presente guía muestra cómo generar las credenciales para conectarse a las instancias de VM mediante conexión segura SSH.
 
 Existen diversas formas de conectarse vía SSH, aquí exploraremos tres distintos enfoques:
 
@@ -15,12 +15,12 @@ Ver documentación oficial: [Acerca de las conexiones SSH](https://cloud.google.
 ## Tabla de contenidos
 
 * [Requisitos](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#requisitos)
-* Conexión SSH mediante `gcloud`
-* Creación del archivo `config`
+* [Conexión SSH mediante `gcloud`](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#creaci%C3%B3n-del-archivo-config)
+* [Creación del archivo `config`](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#creaci%C3%B3n-del-archivo-config)
   * [Generación de clave y credenciales](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#generaci%C3%B3n-de-claves-y-credenciales)
   * [Vincular las credenciales con Compute Engine](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#vincular-las-credenciales-con-compute-engine)
   * [Probemos ahora que podemos conectarnos a la instancia via SSH](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#probemos-ahora-que-podemos-conectarnos-a-la-instancia-via-ssh)
-  * Extensiones de Visual Studio Code
+  * [Extensiones de Visual Studio Code](https://github.com/datacloudclub/datacloudclub/blob/main/Google%20Cloud%20Platform%20(GCP)/Gu%C3%ADas/conexion_ssh.md#extensiones-de-visual-studio-code)
 
 ## Requisitos
 
@@ -222,7 +222,7 @@ Luego de haber configurado el archivo `config` e instalado las extenciones, VSC 
 
 ![1716188181666](image/conexion_ssh/1716188181666.png)
 
-De las opciones que se despliegan, debemos elegir "Connect to Host..." 
+De las opciones que se despliegan, debemos elegir "Connect to Host..."
 
 ![1716188314094](image/conexion_ssh/1716188314094.png)
 
